@@ -3,7 +3,7 @@ MsonFrame
 
 # Introduction
 
-**MsonFrame** is an JavaFX application, which used [**Mson**](https://github.com/magiclen/MagicLenJSON "Mson") to convert JSON formatted strings to XML formatted strings, and to convert XML formatted strings back to SON formatted strings. More over, if you think your JSON formatted strings are not instinctive, you can use this application to help you format the strings with a pretty form.
+**MsonFrame** is an JavaFX application, which used [**Mson**](https://github.com/magiclen/MagicLenJSON "Mson") to convert JSON formatted strings to XML formatted strings, and to convert XML formatted strings back to JSON formatted strings. More over, if you think your JSON formatted strings are not instinctive, you can use this application to help you format the strings with a pretty form.
 
 # Usage
 
